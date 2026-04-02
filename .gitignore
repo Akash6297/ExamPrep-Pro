@@ -1,0 +1,12 @@
+# Ignore system and IDE files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ignore personal environment/data if any
+.env
+.gemini/
+*.tmp
+logs/
+node_modules/
